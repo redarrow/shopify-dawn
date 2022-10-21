@@ -1,3 +1,8 @@
+nav.header__inline-menu {
+    margin-left: 335px !important;
+    position: absolute !important;
+}
+
 /* Color custom properties */
 
 :root,
