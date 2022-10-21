@@ -2,6 +2,12 @@ nav.header__inline-menu {
     margin-left: 335px !important;
     position: absolute !important;
 }
+sticky-header.header-wrapper.color-background-1.gradient.header-wrapper--border-bottom {
+    position: fixed !important;
+    top: 0px !important;
+    left: 0px !important;
+    width: 100% !important;
+}
 
 /* Color custom properties */
 
